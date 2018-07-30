@@ -23,7 +23,6 @@ Host git.chorke.org
      PreferredAuthentications publickey
      IdentityFile ~/.ssh/git_chorke_rsa
      User git
-     
 ```
 
 
@@ -36,7 +35,6 @@ jekyll new shahedbiz.github.io
 bundle install --gemfile=Gemfile
 bundle exec jekyll serve
 jekyll serve
-
 ```
 
 
@@ -62,7 +60,6 @@ git update-index --assume-unchanged to/file/path/name.ext
 # good to know for find and replace
 for f in $(find ./app/ -name '*.php'); do sed "s/ebis/ehis/g" \
 "$f"> "$f.tmp" && mv "$f.tmp" "$f"; done;
-
 ```
 
 
