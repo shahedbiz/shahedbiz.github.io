@@ -1,3 +1,8 @@
+---
+title: Shahed, Inc.
+published: true
+---
+
 # [shahedbiz.github.io][301]
 
 This is the official organization pages of [`Shahed, Inc.`][000] It's a GitHub Jekyll pages project to generate static pages for [`Shahed, Inc.`][000]
